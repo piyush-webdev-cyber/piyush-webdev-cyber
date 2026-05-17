@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer specializing in React | Building fast, scalable, and responsive web applications
+Full Stack Developer specializing in React, Node.js, and AI-assisted web application development
 
 
 ## 🌐 Socials:
